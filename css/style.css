@@ -1,0 +1,39 @@
+h1 {
+    color: red;
+    font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+body{
+  text-align: center;
+}
+
+p1 {
+  font-size: 180%;
+}
+
+body {
+    background-image: url("https://images7.alphacoders.com/671/thumb-1920-671281.jpg");
+}
+a {
+  font-size: 80px
+}
+
+a:link {
+    color: blue;
+}
+
+/* visited link */
+a:visited {
+    color: red;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: green;
+}
